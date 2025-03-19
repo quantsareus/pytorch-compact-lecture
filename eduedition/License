@@ -1,0 +1,160 @@
+Educational End User License Agreement
+
+1. General. This is an Educational End User License Agreement (hereinafter “EEULA”) between The Qt Company, as defined below (”The Qt Company”) and you, as defined below (hereinafter “you” or “Educational User”) who is accepting these terms and conditions.
+
+1.1. Acceptance. By signing (including electronic signature), clicking to accept (via an “I agree” or similar button), or by downloading, installing, or otherwise using the Licensed Software set forth in Section 2.7 below, you become a party to a legal agreement with The Qt Company and consent to be bound by all terms and conditions in this EEULA (such agreement under this EEULA being hereinafter referred to as the “Agreement”). You further agree that you have had sufficient opportunity to review this EEULA, understand its contents, and seek independent legal advice regarding this EEULA. If you do not agree with these terms, please do not download or use the Licensed Software. If you are an Educational User (as defined below), you must be above the legal age of consent in your jurisdiction.
+
+1.2. Rights. Subject to Section 2.2 of this EEULA, Educational User may, depending from jurisdiction to jurisdiction, have other rights which may not be excluded or limited. Nothing in this EEULA is intended to restrict such rights.
+
+2. DEFINITIONS
+
+2.1. “Demo Units” shall mean (i) hardware development platform, which incorporates the Licensed Software along with Educational User’s software and/or hardware, and (ii) prototype versions of any Qt based applications. 
+
+2.2. "Educational Use” shall mean the use of Licensed Software for the purposes of learning, teaching, research and development as part of educational instruction. Educational use does not include any commercial, professional, or for-profit purposes.
+
+2.3. “Educational User” means an educational institute, student or instructor of a recognized educational institute (university, college, or similar education institution with the primary purpose of teaching enrolled students) with sufficient legal authority to enter into this EEULA. A student or instructor must be able to provide The Qt Company with proof of their educational status as student or instructor upon request. An educational institute must be able to provide The Qt Company with proof of accreditation of its educational institute status upon request. Only current students and instructors, as well as currently accredited educational institutes are allowed to use the Licensed Software under this EEULA.
+
+2.4. “Force Majeure Event” shall have the meaning set forth in the Force Majeure section below. 
+
+2.5. “License Term” shall be as defined below in Section 13.2.  
+
+2.6. “Licensed Software” shall mean The Qt Company’s software product which is licensed for use by the Educational User under this EEULA. Licensed Software includes, if and to the extent applicable, corresponding online or electronic documentation, associated media and printed materials, including the source code, and example programs. The Qt Company may, in the course of its development activities, at its free and absolute discretion and without any obligation to send or publish any notifications to the Educational User or in general, make changes, additions or deletions in the components and functionalities of the Licensed Software, provided that no such changes, additions or deletions will affect the already released version of the Licensed Software, but only upcoming version(s).   For Educational Users, “Licensed Software” is limited to 
+
+Qt development framework and tools as defined for DCP in https://www.qt.io/terms-conditions/#appendix-1 and documentation, subject to the following exceptions; the Licensed Software includes pre-built software only for Raspberry Pi embedded hardware, limited set reference MCU hardware and does not include source codes for QQUL or its platform adaptation.
+
+Qt design tools as defined for DSE in https://www.qt.io/terms-conditions/#appendix-1.
+
+2.7. “Modified Software” shall mean any modifications, edits, or other changes to the Licensed Software. More details are provided below in Section 5.
+
+2.8. “Permitted Software” shall mean third party products that are generally available for public, which may include parts of Qt Community Edition or be developed using Qt Community Edition. 
+
+2.9. “Pre-Release Code” shall have the meaning as set forth in Section 7.
+
+2.10. “Prohibited Combination” shall mean the combination of, or any effort to use, combine, incorporate, link or integrate Licensed Software with: (i) any software created with or incorporating Qt Community Edition, or use Licensed Software for creation of any such software, or (ii) Qt software sold under commercial editions. 
+
+2.11. "Qt Community Edition” shall mean open-source Qt Software available under the terms of the GNU Lesser General Public License, version 2.1 or later (“LGPL”) or the GNU General Public License, version 2.0 or later (“GPL”). For clarity, Qt Community Edition shall not be provided, governed or used under this EEULA.
+
+2.12. “Redistributables" shall mean the portions of the Licensed Software as defined in https://www.qt.io/terms-conditions/#appendix-1, that may be distributed pursuant to this EEULA in object code form only, including any relevant documentation. Where relevant, any reference to Licensed Software in this EEULA shall include and refer also to Redistributables. 
+
+2.13. “The Qt Company” shall mean: 
+
+in the event Customer is an individual residing in the United States or a legal entity incorporated in or having its headquarters in the United States, The Qt Company Inc., a Delaware corporation with its office at 3031 Tisch Way, 110 Plaza West, San Jose, CA 95128, USA.; or 
+
+in the event Customer is an individual residing outside of the United States or a legal entity incorporated or having its registered office outside of the United States, The Qt Company Oy., a Finnish company with its registered office at Miestentie 7, 02150 Espoo, Finland. 
+
+2.14. “Third-Party Software" shall have the meaning set forth in Section 6 of this EEULA.
+
+3. OWNERSHIP
+
+3.1. Ownership of The Qt Company
+
+3.2. The Licensed Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Licensed Software is licensed, not sold.
+
+3.3. All of The Qt Company's Intellectual Property Rights are and shall remain the exclusive property of The Qt Company or its licensors respectively. No rights to The Qt Company’s Intellectual Property Rights are assigned or granted to Educational User under this EEULA, except when and to the extent expressly specified herein.
+
+4. LICENSE GRANT
+
+4.1. The Qt Company grants to Educational User a non-exclusive, non-transferable, revocable, royalty-free license, valid for the License Term, to use, modify and copy the Licensed Software for the sole purposes of designing, developing, demonstrating and testing as part of the Educational Use.
+
+4.2. Educational User may install copies of the Licensed Software on one (1) computer for his/her own education use as an Educational User.
+
+4.3. Educational User may demonstrate the Demo Units, provided that such demonstrations must be conducted by Educational User, and the Demo Units must remain in Educational User’s possession and under Educational User’s control at all times. Demonstrations must be part of the Education Use. 
+
+4.4. The licenses granted in this Section  are conditional and subject to Educational User's compliance with the following terms: 
+
+Educational User acknowledges that The Qt Company has separate versions of Licensed Software for commercial and for-profit purposes. 
+
+Educational User shall not transfer, publish, sublicense, disclose, display or otherwise make the Licensed Software available to any third party (except that Licensee may demonstrate the Demo Units pursuant to this EEULA);
+
+Educational User shall not and shall cause its educational institute to not use Licensed Software in any Prohibited Combination, unless Educational User has received advance written permission from The Qt Company to do so. Notwithstanding the foregoing, Educational User is entitled to use and combine Licensed Software with any Permitted Software;  
+
+Educational User shall not remove or alter any copyright, trademark or other proprietary rights notice(s) contained in any portion of the Licensed Software;   
+
+Educational User may not use the Licensed Software to create software competing with the Licensed Software;  
+
+Educational User shall not use Licensed Software in any manner or for any purpose that infringes, misappropriates or otherwise violates any Intellectual property or right of any third party, or that violates any applicable law;  
+
+Educational User shall not use The Qt Company's or any of its suppliers' names, logos, or trademarks without The Qt Company’s prior written permission;    
+
+Educational User shall not distribute, sublicense or disclose source code of Licensed Software to any third party; Educational User shall attempt or enlist a third party to conduct or attempt to conduct any of the above.
+
+4.5. The above terms anot applicable if and solely to the extent they conflict with any mandatory provisions of any applicable laws.
+
+4.6. Any use of Licensed Software beyond the provisions of this EEULA is strictly prohibited. Use of Licensed Software for any professional, commercial, or for-profit purposes requires a commercial agreement with The Qt Company. Should you wish to use the Licensed Software for such purposes, please reach out to The Qt Company via https://www.qt.io/pricing to enquire about commercial licenses, pricing, and applicable terms.
+
+5. MODIFIED SOFTWARE
+Educational User may create bug-fixes, error corrections, patches or modifications to the Licensed Software (“Modified Software”). Such Modified Software may break the source or binary compatibility with the Licensed Software (including without limitation through changing the application programming interfaces (“API”) or by adding, changing or deleting any variable, method, or class signature in the Licensed Software and/or any inter-process protocols, services or standards in the Licensed Software libraries). To the extent that Educational User’s Modified Software so breaks source or binary compatibility with the Licensed Software, Educational User agrees and acknowledges that use of Modified Software with the Licensed Software is entirely at the Educational User’s own risk and expense.
+
+6. THIRD PARTY SOFTWARE. The Licensed Software may provide links or access to third party libraries or code (collectively "Third-Party Software") to implement various functions. Third-Party Software does not, however, comprise part of the Licensed Software, but is provided to Educational User complimentary and use thereof is discretionary for the Educational User. Third-Party Software will be listed in the ".../src/3rdparty" source tree delivered with the Licensed Software or documented in the Licensed Software, as such may be amended from time to time. Educational User acknowledges that use or distribution of Third-Party Software is in all respects subject to applicable license terms of applicable third-party right holders.
+
+7. PRE-RELEASE CODE
+
+7.1. The Licensed Software may contain pre-release code and functionality, or sample code marked or otherwise stated with appropriate designation such as “Technology Preview”, “Alpha”, “Beta”, “Sample”, “Example” etc. (“Pre-Release Code”).
+
+7.2. Such Pre-Release Code may be present complimentary for the Educational User, in order to provide experimental support or information for new platforms or preliminary versions of one or more new functionalities or for other similar reasons. The Pre-Release Code may not be at the level of performance and compatibility of a final, generally available, product offering.  The Pre-Release Code may not operate correctly, may contain errors and may be substantially modified by The Qt Company prior to the first commercial product release, if any. The Qt Company is under no obligation to make Pre-Release Code commercially available, or provide any support or updates relating thereto. The Qt Company assumes no liability whatsoever regarding any Pre-Release Code; any use thereof is exclusively at Educational User’s own risk and expense.
+
+7.3. Unless Licensed Software specifies different license terms for the respective Pre-Release Code, the Educational User is entitled to use such Pre-Release Code pursuant to the license grant and other terms of this EEULA.
+
+8. RESTRICTIONS
+
+8.1. Export Control. Educational User acknowledges that the Licensed Software, or portions thereof, may be subject to export control restrictions under the applicable laws of respective countries. Educational User shall fully comply with all applicable export license restrictions and requirements, economic sanctions restrictions, as well as with all laws and regulations relating thereto, and shall procure all necessary governmental authorizations, including without limitation, all necessary licenses, approvals, permissions or consents, where necessary. Educational User hereby declares and warrants that is not a sanctioned individual or entity as defined under European Union and United States sanctions laws and restrictions.
+
+8.2. Restricted Use. Use of Licensed Software under this EEULA is not permitted for any military or defense use, even if otherwise qualifying as Educational Use (e.g., institutional research). The Licensed Software is commercial computer software developed fully at private expense. Further, Educational User acknowledges that any use of the Licensed Software is at Educational User's own risk and that it is Educational User’s responsibility to ensure that their use of the Licensed Software complies with applicable laws and regulations. Licensed Software may not be used for any illegal or illicit purpose.
+
+8.3. Suspension. The Qt Company reserves the right to suspend and/or block Educational User’s access to, and use of, the Licensed Software in the event that The Qt Company reasonably believes that Educational User’s use of the Licensed Software violates applicable law, this EEULA, or threatens the integrity, availability, or security of the Licensed Software or related Qt products and services.
+
+9. VERIFICATION OF COMPLIANCE
+
+9.1. The Qt Company reserves the right to verify Educational User’s compliance with this EEULA. This includes, but is not limited to, verifying that Educational User qualifies as a current and continuing Educational User under this EEULA. Further, The Qt Company may verify that the use of Licensed Software does and continues to qualify as a permitted Educational Use. Verification of compliance may include (at The Qt Company’s reasonable discretion) access to records, documentation, or, if necessary, on-site verification. Any on-site verification will be subject to at least ten (10) days prior written notice on the part of The Qt Company.
+
+10. LIMITED WARRANTY AND WARRANTY DISCLAIMER
+
+10.1. To the extent permitted by applicable law, the Licensed Software is provided "as is" and exclusive of other warranties, whether express, implied, or otherwise. Use of the Licensed Software is at Educational User’s own risk.
+
+10.2. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE QT COMPANY ON BEHALF OF ITSELF AND ITS LICENSORS, SUPPLIERS AND AFFILIATES, DISCLAIMS ALL CONDITIONS AND WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT WITH REGARD TO THE LICENSED SOFTWARE. THE QT COMPANY DOES NOT WARRANT THAT THE LICENSED SOFTWARE WILL OPERATE WITHOUT DEFECT OR ERROR OR THAT THE OPERATION THEREOF WILL BE UNINTERRUPTED.
+
+11. LIMITATION OF LIABILITY
+
+11.1. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT FOR ANY LIABILITY THAT CANNOT BE EXCLUDED OR RESTRICTED BY APPLICABLE LAW, THE QT COMPANY DISCLAIMS ANY AND ALL LIABILITY FOR ANY LOST PROFITS, LOSS OF DATA, LOSS OF BUSINESS OR GOODWILL OR ANY OTHER INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE COST, DAMAGES OR EXPENSE OF ANY KIND, HOWSOEVER ARISING UNDER OR IN CONNECTION WITH THIS EEULA.
+
+11.2. EXCEPT WHERE REQUIRED OTHERWISE BY APPLICABLE LAW, IN NO EVENT SHALL THE QT COMPANY’S TOTAL AGGREGATE LIABILITY UNDER THIS EEULA EXCEED ONE HUNDRED US DOLLARS ($100) OR THE LOCAL EQUIVALENT THEREOF.
+
+12. GOVERNING LAW AND DISPUTE RESOLUTION
+
+12.1. The United Nations convention on contracts for the international sale of goods will not apply to this EEULA.
+
+12.2. Where this EEULA is concluded with The Qt Company, Inc., a Delaware corporation, the Parties agree that this Section 12.2 will apply. This EEULA will be governed by, and construed in accordance with the laws of the State of California and any controlling United States federal law. Any dispute, controversy or claim arising out of or relating to this contract, including the formation, interpretation, breach or termination thereof, including whether the claims asserted are arbitrable, will be referred to and finally determined by arbitration in accordance with the JAMS International Arbitration Rules. The tribunal will consist of one arbitrator. The place of arbitration will be San Francisco, California, USA. The language to be used in the arbitral proceedings will be English. Judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. This Section 12.2 shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+
+12.3. Where this EEULA is concluded with The Qt Company, Oy., a Finnish company, the parties agree that this Section 12.3 will apply. This EEULA shall be construed and interpreted in accordance with the laws of Finland, excluding its choice of law provisions. All disputes arising out of or in connection with this EEULA shall be finally settled in accordance with the laws of Finland, excluding its choice of law provisions.  All disputes arising out of or in connection with this EEULA shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with the said Rules. The place of arbitration will be Helsinki, Finland. The language to be used in arbitral proceedings will be English. This section 12.3 shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+
+12.4. Depending on Educational User’s jurisdiction, certain other laws may be applicable (e.g., country-specific products liability regulations). Nothing in this EEULA will deprive Educational User of the protections granted to Educational User by the law of the country where Educational User resides that cannot be derogated from by contract pursuant to the law of such country. This may mean that, for example, The Qt Company may be required to bring certain claims with respect to the Licensed Software against Educational User only in the courts of the country where Educational User resides, and Educational User may have the right to bring a claim with respect to the Licensed Software against The Qt Company either in Finland or in the courts of the country where Educational User resides.
+
+13. TERM AND TERMINATION
+
+13.1. Agreement Term. This EEULA commences upon acceptance by the Educational User and continues for as long as a valid license is in place under this Agreement. If the Educational User accepts a new or updated EEULA, that EEULA shall replace and supersede any prior EEULAs in place between the Parties. 
+
+13.2. License Term. Educational User’s License is granted for a License Term of twelve (12) months, provided that Educational User remains an eligible Educational User during the license term. Should Educational User cease to be an eligible Educational User during the License Term, the license grant under this EEULA expires and Educational User must immediately cease all use of the Licensed Software under this EEULA.
+
+13.3. License Term Renewal. If, after the initial License Term, Educational User remains an eligible Educational User and wishes to continue using an Educational User license under this EEULA, Educational User may request in writing to renew the license for an additional 12-month renewal term. Such renewal term shall be subject to verification that Educational User remains an eligible Educational User and this EEULA or—if provided by The Qt Company to Educational User—any updated EEULA terms applicable to such license renewal.
+
+13.4. Termination. Either party may terminate this Agreement upon sixty (60) days’ prior written notice to the other party. Further, either party may terminate this Agreement immediately in the event of a material breach of this Agreement that the breaching Party fails to cure within thirty (30) days of written notice of breach, provided however that if the material breach is uncurable and written notice of breach demonstrates this in reasonable detail, the Agreement may be terminated upon receipt of the written notice of breach.
+
+14. MISCELLANOUS 
+
+14.1. Assignment. Educational User shall not be entitled to assign or transfer all or any of its rights, benefits and obligations under this EEULA except with the prior written consent of The Qt Company. The Qt Company shall be entitled to freely assign or transfer any of its rights, benefits or obligations under this EEULA.
+
+14.2. Surviving Sections. Any terms and conditions that by their nature or otherwise reasonably should survive termination of this EEULA shall so be deemed to survive.
+
+14.3. Agreement. The Qt privacy policy and Qt account terms (available at https://www.qt.io/terms-conditions/privacy-policy  and https://www.qt.io/terms-conditions/qt-account respectively) are incorporated into this EEULA. Use of the licenses under this EEULA is subject to the linked terms and any updates thereof made available to you via your use of the Licensed Software.
+
+14.4. Subcontractors. The Qt Company may utilize subcontractors in the performance of Licensed Software under this EEULA, provided that The Qt Company remains responsible for compliance with this EEULA, as well as ensuring that subcontractors are required to abide by relevant restrictions (e.g., confidentiality) set forth in this EEULA.
+
+14.5. Modifications. No modification of this EEULA shall be effective unless contained in a writing executed by an authorized representative of each Party. No standard terms and conditions or provisions of any Educational User purchase order or other ordering form that Educational User may use in connection with the acquisition of Licensed Software will modify or affect this EEULA, the parties agree that any such terms and conditions are void with no legal effect.
+
+14.6. Force Majeure. Neither Party shall be liable to the other for any delay or non-performance of its obligations hereunder in the event and to the extent that such delay or non-performance is due to an event of act of God, terrorist attack or other similar unforeseeable catastrophic event that prevents either Party for fulfilling its obligations under this EEULA and which such Party cannot avoid or circumvent (“Force Majeure Event”).  If the Force Majeure Event results in a delay or non-performance of a Party for a period of three (3) months or longer, then either Party shall have the right to terminate the EEULA with immediate effect.
+
+14.7. Notices. The Qt Company may provide notice to Educational User in writing, including via electronic mail or via Educational User’s Qt Account, mail, or personal delivery. Notice shall be deemed properly given and deemed received if: specifically acknowledged by the receiving Party in writing; or when successfully delivered to the recipient by hand, fax, or special courier; on the day information is provided to Educational User’s Qt Account; in the case of mail, four (4) days after deposit in the mail; or, in the case of electronic mail, on the day the electronic mail is sent by The Qt Company. Each communication and document made or delivered by one Party to the other Party pursuant to this EEULA shall be in the English language.
+
+14.8. Reservation of Rights. The Qt Company reserves the right to make changes to the features, functions, availability, support, capabilities, and characteristics of the Licensed Software. Nothing in this EEULA limits any rights that an individual may have under applicable consumer protection laws.
+
+14.9. Feedback. Educational User agrees that, from time to time, The Qt Company, may request feedback from Educational User regarding the Licensed Software (“Feedback”). Educational User may choose to provide Feedback and agrees that The Qt Company may freely use, copy, disclose, and exploit any Feedback. No Feedback will be considered Educational User Confidential Information unless explicitly agreed otherwise between the parties.14.10. Severability. If any provision of this EEULA shall be adjudged by any court of competent jurisdiction to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this EEULA shall otherwise remain in full force and effect and enforceable.
